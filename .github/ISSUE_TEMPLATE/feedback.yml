@@ -1,0 +1,31 @@
+name: Preview feedback
+description: Suggest a change to the Middle East management hub preview.
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "Feedback is public. Please use fictional examples and do not include real client details, email content or confidential information."
+  - type: input
+    id: screen
+    attributes:
+      label: Page or feature
+      description: For example, Dashboard, Client record, Email monitoring or Samples.
+    validations:
+      required: true
+  - type: dropdown
+    id: persona
+    attributes:
+      label: Previewing as
+      options:
+        - Alex
+        - Bilal
+        - Sameh
+        - Latif
+        - Any view
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Describe what you expected and the outcome you want.
+    validations:
+      required: true
