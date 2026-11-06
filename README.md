@@ -4,7 +4,7 @@ An open, interactive review version for Alex and Bilal. This repository contains
 
 ## Review
 
-Use the live link shown in this repository's GitHub Pages deployment. Switch **Preview as** between Alex, Bilal, Sameh and Latif to explore the proposed views. Try the dashboard, directory, prospects, clients, projects, tasks, communications and samples.
+Open the live preview: https://schooluniformdirect.github.io/sud-me-crm-preview/ . Switch **Preview as** between Alex, Bilal, Sameh and Latif to explore the proposed views. Try the dashboard, directory, prospects, clients, projects, tasks, communications and samples.
 
 Use **Leave feedback** in the preview, or the repository's Issues tab. A GitHub account is required to submit feedback. Please identify the page, what you expected and the change you would like. Feedback is public: do not include real client details, email content or confidential prices.
 
@@ -17,3 +17,5 @@ To review offline, download the repository ZIP, extract it and open **SUD_ME_Int
 ## Publishing
 
 GitHub Pages serves the root of the main branch. Updates to this repository publish to the same review URL. This repository must contain demonstration assets only. Production CRM source, business data and credentials belong in a separate private repository and secured application.
+
+![Live design preview](preview.png)
